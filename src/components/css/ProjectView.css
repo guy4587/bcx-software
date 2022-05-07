@@ -1,0 +1,26 @@
+.summary {
+    padding: 35px;
+    
+}
+
+.addTask{
+    padding: 50px;
+    margin: 5px
+}
+
+.addTaskModal {
+   background-color: aliceblue;
+   width: 50%;
+   height: 90%;
+   align-items: center;
+   margin-left: 25%;
+   border-radius: 15px;
+   padding: 15px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+ .modalItem{
+     margin: 5px;
+     width: 50%;
+ }

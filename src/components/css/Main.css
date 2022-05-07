@@ -1,0 +1,8 @@
+body {
+  --techto-color: #1e2f97;
+}
+
+.appBody{
+  display: flex;
+  height: 100vh;
+}
